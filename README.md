@@ -11,7 +11,6 @@
 - ✅ Delete jokes
 - ✅ Search jokes by keyword
 - ✅ Clean and simple user interface
-- ✅ Built with ASP.NET Core MVC (Razor views)
 
 ---
 
@@ -21,7 +20,7 @@
 - Razor Pages
 - Entity Framework Core (for database interaction)
 - Bootstrap (for styling)
-- SQL Server (or LocalDB)
+- SQL Server
 
 ---
 
@@ -29,6 +28,9 @@
 
 ### 🏠 Home Page
 ![Home Page](https://github.com/robiulislam99/JokesApp/blob/master/JokesApp/homepage.jpg)
+
+### ➕ Jokes
+![Jokes]( https://github.com/robiulislam99/JokesApp/blob/master/JokesApp/jokespage.jpg)
 
 ### ➕ Add a New Joke
 ![Add Joke](https://github.com/robiulislam99/JokesApp/blob/master/JokesApp/create%20jokes.jpg)
