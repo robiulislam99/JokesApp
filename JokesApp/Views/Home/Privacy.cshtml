@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-10">
+            <div class="card border-0 shadow-sm">
+                <div class="card-body p-5">
+                    <h2 class="mb-4 text-center text-dark">@ViewData["Title"]</h2>
+
+                    <section class="mb-4">
+                        <h4 class="text-secondary">1. Introduction</h4>
+                        <p>
+                            At <strong>JokesApp</strong>, we value your privacy. This Privacy Policy outlines our current data handling and protection practices. Although the application operates in a local development environment, we are committed to maintaining a responsible and secure approach to user privacy.
+                        </p>
+                    </section>
+
+                    <section class="mb-4">
+                        <h4 class="text-secondary">2. Data Collection</h4>
+                        <p>
+                            JokesApp does not collect, store, or transmit any personal or sensitive user data. All usage remains confined to your local machine with no external network communication.
+                        </p>
+                        <p>
+                            If future versions of JokesApp introduce online features, appropriate data protection measures will be integrated, including user consent and transparency.
+                        </p>
+                    </section>
+
+                    <section class="mb-4">
+                        <h4 class="text-secondary">3. Security Practices</h4>
+                        <p>
+                            While running locally, JokesApp faces minimal security threats. Still, standard coding practices are followed to avoid vulnerabilities. If the application is deployed to a live environment, security protocols such as HTTPS, encryption, and authentication will be applied.
+                        </p>
+                    </section>
+
+                    <section class="mb-4">
+                        <h4 class="text-secondary">4. Third-Party Services</h4>
+                        <p>
+                            JokesApp currently does not use any third-party tools, APIs, or analytics services. Any future integration will be disclosed here with clear information on how it may impact your data.
+                        </p>
+                    </section>
+
+                    <section class="mb-4">
+                        <h4 class="text-secondary">5. Changes to This Policy</h4>
+                        <p>
+                            As JokesApp continues to grow, this policy may be updated to reflect changes in features, technology, or legal requirements. You are encouraged to review this page periodically for the latest version.
+                        </p>
+                    </section>
+
+                    <section class="mb-4">
+                        <h4 class="text-secondary">6. Contact</h4>
+                        <p>
+                            For any questions or concerns regarding this Privacy Policy, please contact the developer through the official project channel or repository.
+                        </p>
+                    </section>
+
+                    <p class="text-muted text-end mb-0">
+                        Last updated: @DateTime.Now.ToString("MMMM dd, yyyy")
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
