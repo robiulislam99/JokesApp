@@ -27,7 +27,15 @@
 
 ## 📸 Screenshots
 
-*Coming soon...*
+### 🏠 Home Page
+![Home Page](https://github.com/robiulislam99/JokesApp/blob/master/JokesApp/homepage.jpg)
+
+### ➕ Add a New Joke
+![Add Joke](https://github.com/robiulislam99/JokesApp/blob/master/JokesApp/create%20jokes.jpg)
+
+### 🔍 Search Jokes
+![Search Jokes]( https://github.com/robiulislam99/JokesApp/blob/master/JokesApp/search.jpg)
+
 
 ---
 
@@ -36,5 +44,5 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/JokesApp.git
+   git clone  https://github.com/robiulislam99/JokesApp.git
    cd JokesApp
